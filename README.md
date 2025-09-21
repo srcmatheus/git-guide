@@ -1,4 +1,4 @@
-<img src="../git-guide/docs/git-icon.png" alt="Git Icon" width="250px">
+<img src="docs/git-icon.png" alt="Git Icon" width="250px">
 
 </br>
 
