@@ -30,9 +30,9 @@ Neste repositório você vai encontrar:
 - Como o Git surgiu e qual a sua relevância atual
 - Como instalar e configurar o Git
 - Primeiros passos e comandos iniciais
-- Comandos intermediários e boas práticas
-- Sincronização com o GitHub
-- Padronização de Commits
+- Comandos intermediários
+- Lista de comandos para consultar
+- Padronização de Commits e boas práticas
 
 ---
 
